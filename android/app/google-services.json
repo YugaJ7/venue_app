@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49897635545",
+    "project_id": "venue-discovery-app-c8a7e",
+    "storage_bucket": "venue-discovery-app-c8a7e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49897635545:android:1fc00fd0919ce579e748c8",
+        "android_client_info": {
+          "package_name": "com.example.venue_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49897635545-o494jd8lco8alv79dgp30ofr9vevhsro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQFo5nRgPfd3bhVW93Hu81kJSisVD-s7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49897635545-o494jd8lco8alv79dgp30ofr9vevhsro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
